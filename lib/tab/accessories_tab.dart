@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:donut_app/utils/accessories_tile.dart';
+import 'package:hardwareApp/utils/accessories_tile.dart';
 
 class AccessoriesTab extends StatelessWidget {
   final Function(String, double, String) onAddToCart;

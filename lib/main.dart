@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:donut_app/screens/login_page.dart';
-import 'package:donut_app/screens/home_page.dart';
+import 'package:hardwareApp/screens/login_page.dart';
+import 'package:hardwareApp/screens/home_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Donut App',
+      title: 'Hardware App',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),

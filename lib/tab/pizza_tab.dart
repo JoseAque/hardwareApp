@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:donut_app/utils/pizza_tile.dart';
+import 'package:hardwareApp/utils/pizza_tile.dart';
 
 class PizzaTab extends StatelessWidget {
   final Function(String, double, String) onAddToCart;

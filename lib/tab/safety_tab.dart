@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:donut_app/utils/safety_tile.dart';
+import 'package:hardwareApp/utils/safety_tile.dart';
 
 class SafetyTab extends StatelessWidget {
   final Function(String, double, String) onAddToCart;

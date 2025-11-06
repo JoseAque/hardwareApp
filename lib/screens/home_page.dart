@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:donut_app/utils/my_tab.dart';
-import 'package:donut_app/tab/tools_tab.dart';
-import 'package:donut_app/tab/hardware_tab.dart';
-import 'package:donut_app/tab/safety_tab.dart';
-import 'package:donut_app/tab/materials_tab.dart';
-import 'package:donut_app/tab/accessories_tab.dart';
-import 'package:donut_app/utils/cart_item.dart';
-import 'package:donut_app/utils/cart_bottom_sheet.dart';
+import 'package:hardwareApp/utils/my_tab.dart';
+import 'package:hardwareApp/tab/tools_tab.dart';
+import 'package:hardwareApp/tab/hardware_tab.dart';
+import 'package:hardwareApp/tab/safety_tab.dart';
+import 'package:hardwareApp/tab/materials_tab.dart';
+import 'package:hardwareApp/tab/accessories_tab.dart';
+import 'package:hardwareApp/utils/cart_item.dart';
+import 'package:hardwareApp/utils/cart_bottom_sheet.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class HomePage extends StatefulWidget {

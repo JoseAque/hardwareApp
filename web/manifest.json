@@ -1,6 +1,6 @@
 {
-    "name": "donut_app",
-    "short_name": "donut_app",
+    "name": "hardwareApp",
+    "short_name": "hardwareApp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:donut_app/utils/pancake_tile.dart';
+import 'package:hardwareApp/utils/pancake_tile.dart';
 
 class PancakeTab extends StatelessWidget {
   final Function(String, double, String) onAddToCart;

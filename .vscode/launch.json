@@ -5,18 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "donut_app",
+            "name": "hardwareApp",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "donut_app (profile mode)",
+            "name": "hardwareApp (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "donut_app (release mode)",
+            "name": "hardwareApp (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"

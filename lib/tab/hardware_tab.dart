@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:donut_app/utils/hardware_tile.dart';
+import 'package:hardwareApp/utils/hardware_tile.dart';
 
 class HardwareTab extends StatelessWidget {
   final Function(String, double, String) onAddToCart;

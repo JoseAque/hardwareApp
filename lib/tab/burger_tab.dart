@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:donut_app/utils/burger_tile.dart';
+import 'package:hardwareApp/utils/burger_tile.dart';
 
 class BurgerTab extends StatelessWidget {
   final Function(String, double, String) onAddToCart;

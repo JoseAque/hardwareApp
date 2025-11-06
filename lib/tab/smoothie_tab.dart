@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:donut_app/utils/smoothie_tile.dart';
+import 'package:hardwareApp/utils/smoothie_tile.dart';
 
 class SmoothieTab extends StatelessWidget {
   final Function(String, double, String) onAddToCart;

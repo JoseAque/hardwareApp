@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:donut_app/utils/tools_tile.dart';
+import 'package:hardwareApp/utils/tools_tile.dart';
 
 class ToolsTab extends StatelessWidget {
   final Function(String, double, String) onAddToCart;
